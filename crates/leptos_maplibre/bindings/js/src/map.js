@@ -1,4 +1,4 @@
-import maplibregl from "./maplibre-gl.mjs";
+import maplibregl from "https://esm.sh/maplibre-gl@5.24.0";
 let next_id = 1;
 let next_marker_id = 1;
 let next_popup_id = 1;
